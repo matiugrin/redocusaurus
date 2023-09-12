@@ -3,17 +3,17 @@ sidebar_position: 1
 slug: /
 ---
 
-# Welcome To The OpsAdmin API Reference
+# Welcome To The OA API Reference
 
 :::info
 
-The OpsAdmin API is still under heavy development, this documentation is a work in progress.
+The OA API is still under heavy development, this documentation is a work in progress.
 
 :::
 
 ## Introduction
 
-OpsAdmin is an online software application that creates efficiencies for retail energy suppliers with its marketing, operations, and regulatory-centric tools.
+OA is an online software application that creates efficiencies for retail energy suppliers with its marketing, operations, and regulatory-centric tools.
 
 This software is implemented by different retail companies and each one has its own API domain, set of credentials and permission access to certain API methods that will be provided when the participating retail companies start working in the integration.
 
@@ -23,7 +23,7 @@ It's possible to test the API and see the details of every endpoint (even the on
 
 ### What's New?
 
-When new features are added to the API is recomended to contact the Retail Energy Company to confirm if any of the new features are going to be used or changed. Usually the these new features and parameters are incorporated in OpsAdmin maintaining the existing system functionality, meaning that if they are not changed, the system will continue operating as before the update. 
+When new features are added to the API is recomended to contact the Retail Energy Company to confirm if any of the new features are going to be used or changed. Usually the these new features and parameters are incorporated in OA maintaining the existing system functionality, meaning that if they are not changed, the system will continue operating as before the update. 
 
 If an agent changes the configuration, some endpoints of the API may start failing if the new validations are not met and will require the API user to adapt their applications.
 
