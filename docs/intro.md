@@ -6,7 +6,6 @@ slug: /
 # Welcome To The OA API Reference
 
 :::info
-TEST TEST
 The OA API is still under heavy development, this documentation is a work in progress. 
 
 :::
