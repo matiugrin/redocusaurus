@@ -672,6 +672,11 @@ paths:
       tags:
         - Customers
       summary: Get all customer enrollments
+      info:
+      description: |         
+        Returns a list of all the customer enrollments, except for Archived or Cancelled. Also keep in that if an enrollment is renewed or the plan is changed OpsAdmin will create a new enrollment associated to the original, and the multiple enrollments are associated this method only returns the newest one. 
+        
+        This endpoint is returning more information that necessary for each enrollment. These extra fields will be removed in a future update.
       parameters:
         - name: customerId
           in: path

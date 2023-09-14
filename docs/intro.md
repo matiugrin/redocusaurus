@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 slug: /
+title: OpsAdmin API Reference
 ---
 
 # Welcome To The OA API Reference
@@ -9,6 +10,8 @@ slug: /
 The OA API is still under heavy development, this documentation is a work in progress. 
 
 :::
+
+Test link: [Get Customer Enrollments](http://localhost:3000/redocusaurus/api#tag/Customers/paths/~1api~1v1~1customers~1%7BcustomerId%7D~1enrollments/get)
 
 ## Introduction
 
