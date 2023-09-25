@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: OpsAdmin API Accounts
+title: OpsAdmin API Accounts 22
 slug: /
 ---
 
